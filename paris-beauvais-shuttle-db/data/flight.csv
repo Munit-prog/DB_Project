@@ -1,0 +1,51 @@
+flightCode,airline,destination,departureTime
+VY0001,Vueling,Copenhagen,7:26:41
+VY0002,Vueling,Lisbon,18:09:32
+VY0003,Vueling,Dublin,16:53:05
+AF0001,Air France,Athens,8:07:47
+U20001,easyJet,Dublin,7:17:41
+AF0002,Air France,Copenhagen,17:59:21
+AF0003,Air France,Amsterdam,15:51:42
+U20002,easyJet,Rome,12:33:06
+W60001,Wizz Air,Stockholm,7:33:05
+FR0001,Ryanair,Berlin,19:10:26
+AF0004,Air France,Stockholm,9:18:50
+W60002,Wizz Air,Budapest,9:00:42
+FR0002,Ryanair,Barcelona,20:35:37
+VY0004,Vueling,Stockholm,12:16:16
+FR0003,Ryanair,Lisbon,21:56:55
+U20003,easyJet,Vienna,19:24:27
+VY0005,Vueling,Vienna,12:34:57
+VY0006,Vueling,Rome,6:23:39
+FR0004,Ryanair,Budapest,12:19:22
+FR0005,Ryanair,Milan,7:14:11
+VY0007,Vueling,Vienna,6:42:27
+AF0005,Air France,Milan,14:02:06
+U20004,easyJet,Vienna,20:47:05
+AF0006,Air France,Barcelona,19:10:45
+FR0006,Ryanair,Rome,17:02:37
+U20005,easyJet,Prague,16:27:09
+U20006,easyJet,Vienna,13:55:30
+W60003,Wizz Air,Copenhagen,16:56:39
+AF0007,Air France,Berlin,18:29:36
+VY0008,Vueling,Copenhagen,11:32:45
+U20007,easyJet,Warsaw,7:23:58
+FR0007,Ryanair,Stockholm,11:00:40
+VY0009,Vueling,Lisbon,20:22:12
+FR0008,Ryanair,Rome,21:03:05
+FR0009,Ryanair,Warsaw,16:26:21
+U20008,easyJet,Berlin,9:58:26
+W60004,Wizz Air,Stockholm,21:36:50
+W60005,Wizz Air,Athens,21:52:17
+U20009,easyJet,Barcelona,21:05:12
+FR0010,Ryanair,Madrid,12:31:56
+FR0011,Ryanair,Athens,10:10:53
+W60006,Wizz Air,Copenhagen,7:34:52
+W60007,Wizz Air,Barcelona,7:46:05
+AF0008,Air France,Copenhagen,16:54:21
+FR0012,Ryanair,Barcelona,10:59:15
+VY0010,Vueling,Copenhagen,6:20:54
+FR0013,Ryanair,Madrid,17:16:06
+U20010,easyJet,Madrid,10:51:34
+U20011,easyJet,Stockholm,21:15:38
+FR0014,Ryanair,Prague,11:20:45

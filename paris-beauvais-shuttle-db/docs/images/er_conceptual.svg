@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1640" height="1700" viewBox="0 0 1640 1700">
+  <rect x="0" y="0" width="1640" height="1700" fill="#ffffff" stroke="none"/>
+  <g fill="none" stroke="#000000" stroke-width="2.5">
+  <rect x="443.0" y="10.5" width="326" height="115"/>
+  <text font-family="Liberation Sans, Arial, Helvetica, sans-serif" fill="#000000" stroke="none" x="606" y="77.8" font-size="28" text-anchor="middle">Airline</text>
+  <ellipse cx="145" cy="68" rx="134" ry="48"/>
+  <text font-family="Liberation Sans, Arial, Helvetica, sans-serif" fill="#000000" stroke="none" x="145" y="76.8" font-size="25" text-anchor="middle">name</text>
+  <line x1="113.7" y1="83.0" x2="176.3" y2="83.0"/>
+  <line x1="279.0" y1="68.0" x2="443.0" y2="68.0"/>
+  <text font-family="Liberation Sans, Arial, Helvetica, sans-serif" fill="#000000" stroke="none" x="575" y="158.4" font-size="24" text-anchor="middle">(1,N)</text>
+  <line x1="606.0" y1="126.0" x2="606.0" y2="207.0"/>
+  <polygon points="606,207 789,298 606,389 423,298"/>
+  <text font-family="Liberation Sans, Arial, Helvetica, sans-serif" fill="#000000" stroke="none" x="606" y="306.8" font-size="25" text-anchor="middle">offers</text>
+  <line x1="606.0" y1="389.0" x2="606.0" y2="472.0"/>
+  <text font-family="Liberation Sans, Arial, Helvetica, sans-serif" fill="#000000" stroke="none" x="577" y="422.4" font-size="24" text-anchor="middle">(1,1)</text>
+  <rect x="443.0" y="471.5" width="326" height="115"/>
+  <text font-family="Liberation Sans, Arial, Helvetica, sans-serif" fill="#000000" stroke="none" x="606" y="538.8" font-size="28" text-anchor="middle">Flight</text>
+  <ellipse cx="145" cy="404" rx="134" ry="48"/>
+  <text font-family="Liberation Sans, Arial, Helvetica, sans-serif" fill="#000000" stroke="none" x="145" y="412.8" font-size="25" text-anchor="middle">flightCode</text>
+  <line x1="88.7" y1="419.0" x2="201.3" y2="419.0"/>
+  <line x1="252.2" y1="432.8" x2="443.0" y2="484.0"/>
+  <ellipse cx="145" cy="529" rx="134" ry="48"/>
+  <text font-family="Liberation Sans, Arial, Helvetica, sans-serif" fill="#000000" stroke="none" x="145" y="537.8" font-size="25" text-anchor="middle">destination</text>
+  <line x1="279.0" y1="529.0" x2="443.0" y2="529.0"/>
+  <ellipse cx="145" cy="653" rx="134" ry="48"/>
+  <text font-family="Liberation Sans, Arial, Helvetica, sans-serif" fill="#000000" stroke="none" x="145" y="661.8" font-size="25" text-anchor="middle">departureTime</text>
+  <line x1="252.7" y1="624.4" x2="443.0" y2="574.0"/>
+  <text font-family="Liberation Sans, Arial, Helvetica, sans-serif" fill="#000000" stroke="none" x="575" y="613.4" font-size="24" text-anchor="middle">(1,N)</text>
+  <line x1="606.0" y1="587.0" x2="606.0" y2="657.0"/>
+  <polygon points="606,656 811,759 606,862 401,759"/>
+  <polygon points="606,668 789,759 606,850 423,759"/>
+  <text font-family="Liberation Sans, Arial, Helvetica, sans-serif" fill="#000000" stroke="none" x="606" y="767.8" font-size="25" text-anchor="middle">includes</text>
+  <line x1="606.0" y1="861.0" x2="606.0" y2="922.0"/>
+  <text font-family="Liberation Sans, Arial, Helvetica, sans-serif" fill="#000000" stroke="none" x="577" y="884.4" font-size="24" text-anchor="middle">(1,1)</text>
+  <rect x="432.0" y="921.5" width="348" height="137"/>
+  <rect x="443.0" y="932.5" width="326" height="115"/>
+  <text font-family="Liberation Sans, Arial, Helvetica, sans-serif" fill="#000000" stroke="none" x="606" y="999.8" font-size="28" text-anchor="middle">Daily flight</text>
+  <ellipse cx="1066" cy="932" rx="134" ry="48"/>
+  <text font-family="Liberation Sans, Arial, Helvetica, sans-serif" fill="#000000" stroke="none" x="1066" y="940.8" font-size="25" text-anchor="middle">day</text>
+  <line x1="1026.0" y1="947.0" x2="1106.0" y2="947.0" stroke-dasharray="10,7"/>
+  <line x1="939.1" y1="947.5" x2="779.0" y2="967.0"/>
+  <ellipse cx="1066" cy="1057" rx="134" ry="48" stroke-dasharray="10,7"/>
+  <text font-family="Liberation Sans, Arial, Helvetica, sans-serif" fill="#000000" stroke="none" x="1066" y="1065.8" font-size="25" text-anchor="middle">numPassengers</text>
+  <line x1="941.5" y1="1039.2" x2="779.0" y2="1016.0" stroke-dasharray="10,7"/>
+  <text font-family="Liberation Sans, Arial, Helvetica, sans-serif" fill="#000000" stroke="none" x="575" y="1085.4" font-size="24" text-anchor="middle">(1,N)</text>
+  <line x1="606.0" y1="1058.0" x2="606.0" y2="1129.0"/>
+  <polygon points="606,1129 789,1220 606,1311 423,1220"/>
+  <text font-family="Liberation Sans, Arial, Helvetica, sans-serif" fill="#000000" stroke="none" x="606" y="1228.8" font-size="25" text-anchor="middle">trip</text>
+  <ellipse cx="145" cy="1220" rx="134" ry="48"/>
+  <text font-family="Liberation Sans, Arial, Helvetica, sans-serif" fill="#000000" stroke="none" x="145" y="1228.8" font-size="25" text-anchor="middle">occupiedSeats</text>
+  <line x1="279.0" y1="1220.0" x2="423.0" y2="1220.0"/>
+  <line x1="606.0" y1="1311.0" x2="606.0" y2="1393.0"/>
+  <text font-family="Liberation Sans, Arial, Helvetica, sans-serif" fill="#000000" stroke="none" x="575" y="1344.4" font-size="24" text-anchor="middle">(0,N)</text>
+  <rect x="443.0" y="1392.5" width="326" height="115"/>
+  <text font-family="Liberation Sans, Arial, Helvetica, sans-serif" fill="#000000" stroke="none" x="606" y="1459.8" font-size="28" text-anchor="middle">Bus</text>
+  <ellipse cx="145" cy="1383" rx="134" ry="48"/>
+  <text font-family="Liberation Sans, Arial, Helvetica, sans-serif" fill="#000000" stroke="none" x="145" y="1391.8" font-size="25" text-anchor="middle">busCode</text>
+  <line x1="95.0" y1="1398.0" x2="195.0" y2="1398.0"/>
+  <line x1="268.9" y1="1401.3" x2="443.0" y2="1427.0"/>
+  <ellipse cx="145" cy="1517" rx="134" ry="48"/>
+  <text font-family="Liberation Sans, Arial, Helvetica, sans-serif" fill="#000000" stroke="none" x="145" y="1525.8" font-size="25" text-anchor="middle">availableSeats</text>
+  <line x1="269.7" y1="1499.4" x2="443.0" y2="1475.0"/>
+  <line x1="769.0" y1="1450.0" x2="845.0" y2="1450.0"/>
+  <text font-family="Liberation Sans, Arial, Helvetica, sans-serif" fill="#000000" stroke="none" x="806" y="1478.4" font-size="24" text-anchor="middle">(1,1)</text>
+  <polygon points="1028,1359 1211,1450 1028,1541 845,1450"/>
+  <text font-family="Liberation Sans, Arial, Helvetica, sans-serif" fill="#000000" stroke="none" x="1028" y="1458.8" font-size="25" text-anchor="middle">drives</text>
+  <line x1="1211.0" y1="1450.0" x2="1287.0" y2="1450.0"/>
+  <text font-family="Liberation Sans, Arial, Helvetica, sans-serif" fill="#000000" stroke="none" x="1250" y="1478.4" font-size="24" text-anchor="middle">(1,N)</text>
+  <rect x="1287.0" y="1392.5" width="326" height="115"/>
+  <text font-family="Liberation Sans, Arial, Helvetica, sans-serif" fill="#000000" stroke="none" x="1450" y="1459.8" font-size="28" text-anchor="middle">Driver</text>
+  <ellipse cx="1450" cy="1638" rx="134" ry="48"/>
+  <text font-family="Liberation Sans, Arial, Helvetica, sans-serif" fill="#000000" stroke="none" x="1450" y="1646.8" font-size="25" text-anchor="middle">name</text>
+  <line x1="1418.7" y1="1653.0" x2="1481.3" y2="1653.0"/>
+  <line x1="1450.0" y1="1590.0" x2="1450.0" y2="1508.0"/>
+  </g>
+</svg>
